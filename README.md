@@ -20,8 +20,7 @@
 땀을 의미하는 **Sweat 💧**와 등급을 의미하는 **Tier 🎖️**를 결합해, 유저들과 함께 땀을 흘리며 당신의 운동 티어를 올려보세요!
 
 • **개발기간** : 2024.02.29 - 2024.03.15  
-• **팀 구성** : FE 3명, BE 3명, 디자이너 1명  
-• [배포 주소](https://sweatier-client.vercel.app/)  
+• **팀 구성** : FE 3명, BE 3명, 디자이너 1명   
 • [발표 PPT](https://www.canva.com/design/DAF_eGLYB6Y/ov4cFLs5zKZktzLgKcqvKg/edit?utm_content=DAF_eGLYB6Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <br />
